@@ -8,4 +8,4 @@
 
 | [Birthday-Countdown](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=c60245ae876c476294727c517307a235&metadata=01) | [Cyberpunk-2]() |
 |---|---|
-| ![Birthday-Countdown](/demos/Birthday-Countdown.gif) | ![Cyberpunk-2](/demos/Cyberpunk-2.gif.gif) |
+| ![Birthday-Countdown](/demos/Birthday-Countdown.gif) | ![Cyberpunk-2](/demos/Cyberpunk-2.gif) |
