@@ -11,6 +11,9 @@
 | ![Birthday-Countdown](/demos/Birthday-Countdown.gif) | ![Cyberpunk-2](/demos/Cyberpunk-2.gif) | ![In Love](/demos/Inlove.gif) |
 
 
-| [Good Vibes](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=e5c3b74ae46b497ab72cf665dc8b658d&metadata=01) | [Retro Time Now](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=d395bb6f22324e21b4b701f5e6dd9360&metadata=01)  |
+| [Good Vibes](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=e5c3b74ae46b497ab72cf665dc8b658d&metadata=01) | [Retro Time Now](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=d395bb6f22324e21b4b701f5e6dd9360&metadata=01)  | [Spirit Quotes 1](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=d36cf948e17c48edbe4ab41f52b084f8&metadata=01)  |
 |---|---|
-| ![Good Vibes](/demos/GoodVibes.gif) | ![Retro Time Now](/demos/VintageFilter.gif) |
+| ![Good Vibes](/demos/GoodVibes.gif) | ![Retro Time Now](/demos/VintageFilter.gif) | ![Spirit Quotes 1](/demos/Spirit Quotes 1.gif) |
+
+
+## Styles - Art
