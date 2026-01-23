@@ -17,3 +17,6 @@
 
 
 ## Styles - Art
+| [B&W](demos/https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=3ae4c6aff5e340f1ae14ed84a1375574&metadata=01) | [PinkMagic](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=1172052579414a0ca85c57a2b14a83a0&metadata=01)  | [Royal Gold](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=555f2e3fcabb4f2e80ced41ed39afd85&metadata=01)  |
+|---|---|---|
+| ![B&W](demos/B&W.gif) | ![PinkMagic](/demos/PinkMagic.gif) | ![Royal Gold](demos/RoyalGold.gif) |
